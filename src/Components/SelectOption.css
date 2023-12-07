@@ -1,0 +1,14 @@
+.selectOptions {
+  margin-top: 30px;
+}
+
+select {
+  width: 200px;
+  height: 100px;
+  line-height: 50px;
+}
+
+.msg {
+  text-align: center;
+  color: white;
+}

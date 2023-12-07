@@ -1,0 +1,20 @@
+.homePageElements {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.nextBtn {
+  background-color: #009c51;
+  color: white;
+  padding: 5px 30px;
+  margin-top: 50px;
+  border-radius: 40px;
+  border: 0;
+}
+
+.msg {
+  text-align: center;
+  color: white;
+}
